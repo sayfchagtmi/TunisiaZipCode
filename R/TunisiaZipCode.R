@@ -11,7 +11,7 @@
 
 TunisiaZipCode <- function() {
   library(shiny)
-  df = read.csv("MyData.csv")
+  df = read.csv("https://raw.githubusercontent.com/sayfchagtmi/TunisiaZipCode/master/R/MyData.csv")
   df$Gouvernorat = as.character(df$Gouvernorat)
   df$Délégation = as.character(df$Délégation)
   df$Localité = as.character(df$Localité)
