@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543777958058.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1349345175",
+    "id" : "888CB657",
+    "lastKnownWriteTime" : 1543777999,
+    "last_content_update" : 1543777999147,
+    "path" : "~/Documents/Rpackage/Tunisia_Zip_Code/TunisiaZipCode/R/TunisiaZipCode.R",
+    "project_path" : "R/TunisiaZipCode.R",
+    "properties" : {
+        "cursorPosition" : "50,42",
+        "scrollLine" : "53"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

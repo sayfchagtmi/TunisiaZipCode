@@ -1,0 +1,11 @@
+Package: TunisiaZipCode
+Type: Package
+Title: Look for Tunisian cities by their zip code
+Version: 0.1.0
+Author: Sayf Chagtmi
+Maintainer: The package maintainer <sayfchagtmi@gmail.com>
+Description: This package is used to determinate graphically Tunisian cities, delegations, governorates from a Tunisian Zip Code.
+  You can also download the totality of the dataset for cartography and map visualization usage.
+License: Free license 
+Encoding: UTF-8
+LazyData: true
